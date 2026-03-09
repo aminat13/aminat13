@@ -1,4 +1,4 @@
-# Aminat Coster 👋
+# Aminat Coster 
 
 MSc student in Technologies and Analytics in Precision Medicine
 
