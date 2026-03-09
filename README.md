@@ -50,7 +50,7 @@ Undergraduate Research Project
 - Linux command-line workflows
 - Script-based reproducible analysis
 
-# Statistical and Machine Learning Methods
+### Statistical and Machine Learning Methods
 - Power analysis
 - Linear and logistic regression
 - Mixed-effects modelling
