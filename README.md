@@ -2,16 +2,15 @@
 
 MSc student in Technologies and Analytics in Precision Medicine
 Royal College of Surgeons Ireland (Expected 2026).
-Early-career researcher in computational biology and bioinformatics with a background in molecular biology and precision medicine.
 
 ---
 
 ## Interests
 
--Structure-based drug discovery and computational structural biology
--Structure–function relationships in proteins and their role in disease
--Bioinformatics approaches for therapeutic target identification using multi-omic data
--Precision medicine and molecular mechanisms of disease 
+- Structure-based drug discovery and computational structural biology
+- Structure–function relationships in proteins and their role in disease
+- Bioinformatics approaches for therapeutic target identification using multi-omic data
+- Precision medicine and molecular mechanisms of disease 
 
 ---
 
@@ -22,7 +21,7 @@ MSc Research Project – Royal College of Surgeons in Ireland
 
 - Insitution: Royal College of Surgeons Ireland
 - Supervisor: Prof. Marian Brennan
-- 
+  
 ### RNA-seq Transcriptomic Analysis of APR-246 Treatment in Breast Cancer
 Computational Biology Coursework Project
 
