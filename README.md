@@ -9,7 +9,7 @@ Royal College of Surgeons Ireland (Expected 2026).
 ## Interests
 
 - Structure-based drug discovery and computational structural biology
-- Structure–function relationships in proteins and their role in disease
+- Structure-function relationships in proteins and their role in disease
 - Bioinformatics approaches for therapeutic target identification using multi-omic data
 - Precision medicine and molecular mechanisms of disease 
 
