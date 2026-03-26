@@ -70,7 +70,4 @@ expression analysis and pathway enrichment (FastQC, BBMap, limma-voom).
 ## Contact
 
 Email: aminatcoster@gmail.com
-
-GitHub: https://github.com/aminat13
-
 LinkedIn: https://linkedin.com/in/aminat-coster-hp7884
